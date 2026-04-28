@@ -1,35 +1,50 @@
-
 ## Hi, I’m Shrikant Pawar 👋
 
 DevOps Engineer with hands-on experience in building, deploying, and operating cloud-native applications on AWS.  
 I work across CI/CD, infrastructure automation, monitoring, and production support.
 
+---
+
 ### 🔧 What I work with
-- **Cloud & DevOps:** AWS (EC2, VPC, IAM, ALB, Auto Scaling, CloudWatch), Docker, CI/CD  
-- **IaC & Automation:** Terraform, GitHub Actions, Jenkins  
-- **Monitoring & Observability:** Prometheus, Grafana, Alertmanager, Blackbox Exporter  
+
+- **Cloud & DevOps:** AWS (EC2, VPC, IAM, ALB, Auto Scaling, CloudWatch), Docker  
+- **CI/CD & Automation:** GitHub Actions, Jenkins, Terraform  
+- **Monitoring & Observability:** Prometheus, Grafana, Alertmanager  
 - **Servers & OS:** Linux, Nginx, PM2  
-- **Programming & Scripting:** Node.js, JavaScript, Bash  
+- **Programming & Scripting:** JavaScript, Bash  
+
+---
 
 ### 🚀 Experience highlights
-- Designed and managed production AWS infrastructure for highly available applications  
-- Built CI/CD pipelines with zero-downtime deployments  
-- Implemented Blue-Green and Canary deployment strategies  
-- Set up application-level and system-level monitoring with alerting to Slack  
+
+- Managed production AWS infrastructure with **99.9%+ uptime**  
+- Built CI/CD pipelines enabling **automated and zero-downtime deployments**  
+- Implemented **Blue-Green and Canary deployment strategies**  
+- Reduced infrastructure cost by **~20% using EC2 scheduling automation**  
+- Set up monitoring and alerting using **Prometheus, Grafana, and CloudWatch**  
+- Designed **Disaster Recovery strategy** with AWS Backup and cross-region replication  
 - Performed production support and troubleshooting on Linux systems  
 
+---
+
 ### 📂 Projects
-Most of my hands-on DevOps work is maintained in **private repositories** due to company or project constraints.  
-Public repositories are shared selectively for demonstrations and learning purposes.
+
+Most of my production DevOps work is maintained in private repositories due to organizational constraints.  
+Public repositories are shared selectively to demonstrate:
+
+- CI/CD pipelines  
+- Infrastructure as Code (Terraform)  
+- Cloud-native deployments  
+- Monitoring and alerting setups  
+
+---
 
 ### 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/shrikanthpawar
-- GitHub: https://github.com/Shrikanthpawar
-- Email: shrikantpawar@outlook.in
 
+- LinkedIn: https://linkedin.com/in/shrikanthpawar  
+- GitHub: https://github.com/Shrikanthpawar  
+- Email: shrikanthpawar30@gmail.com  
 
- 
- 
+---
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 400px  style="float:"/>
-
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="350px" />
