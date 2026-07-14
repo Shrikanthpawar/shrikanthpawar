@@ -39,6 +39,10 @@ Public repositories are shared selectively to demonstrate:
 
 ---
 
+## 💻 Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,nginx,linux,bash,aws,docker,kubernetes,terraform,prometheus,grafana)](https://skillicons.dev)
+
 ### 📫 Connect with me
 
 - LinkedIn: https://linkedin.com/in/shrikanthpawar  
