@@ -45,9 +45,9 @@ Public repositories are shared selectively to demonstrate:
 
 ### 📫 Connect with me
 
-- LinkedIn: https://linkedin.com/in/shrikanthpawar  
+- LinkedIn: https://linkedin.com/in/Shrikanthpawar  
 - GitHub: https://github.com/Shrikanthpawar  
-- Email: shrikanthpawar30@gmail.com  
+- Email: Shrikanthpawar30@gmail.com  
 
 ---
 
